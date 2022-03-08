@@ -1,5 +1,9 @@
 # book-recommender
-Book Recommender System using matrix factorization techniques such as SVD and SVD++.
+
+Incremental SVD and SVD: Optimal Alternatives for Book Recommender Systems.
+
+In this project, matrix factorization techniques such as SVD and SVD++ have been utilized to build a Book Recommender System.
+
 
 # Datasets
 
